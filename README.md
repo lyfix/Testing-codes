@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Simple Pong Game</h1>
+    <h1>test</h1>
     <canvas id="pong" width="800" height="500"></canvas>
     <script src="game.js"></script>
 </body>
