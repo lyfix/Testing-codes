@@ -1,0 +1,8 @@
+print("we should make a story")
+print()
+print("lets get some info about the story")
+print()
+print("what is the main character called?")
+name = "lucio"
+print("what is their job?")
+print("The name of the main  character is", name)
